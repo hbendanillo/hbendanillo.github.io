@@ -1,0 +1,54 @@
+.div1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+.div3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.div4 {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+
+.div5 {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.div6 {
+    width: 200px;
+    height: 100px;
+    background-color: maroon;
+}
+
+.div7 {
+    width: 100px;
+    height: 50px;
+    background-color:brown
+}
+
+.div8 {
+    width: 100px;
+    height: 50px;
+    background-color:black;
+}
+
+.wrapper {
+    display: flex;
+}
+
+
+
